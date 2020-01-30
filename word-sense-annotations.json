@@ -1,0 +1,161 @@
+{
+    "hypernyms": {
+        "crown": [],
+        "eat": [
+            "consume.v.02",
+            "eat.v.02"
+        ],
+        "fish": [],
+        "give": [],
+        "go": [],
+        "lamp": [
+            "source_of_illumination.n.01"
+        ],
+        "light": [
+            "lighten.v.05"
+        ],
+        "north": [],
+        "princess": [],
+        "propose": [],
+        "rose": [
+            "shrub.n.01"
+        ],
+        "smell": [],
+        "troll": [
+            "mythical_monster.n.01",
+            "monster.n.01",
+            "mythical_being.n.01",
+            "imaginary_being.n.01"
+        ],
+        "wear": []
+    },
+    "hyponyms": {
+        "crown": [],
+        "eat": [
+            "devour.v.03",
+            "devour.v.04",
+            "eat_up.v.01",
+            "fare.v.02",
+            "fill_up.v.04",
+            "garbage_down.v.01",
+            "gluttonize.v.01",
+            "gobble.v.01",
+            "nibble.v.03",
+            "peck.v.02",
+            "pick_at.v.02",
+            "pitch_in.v.01",
+            "ruminate.v.01",
+            "slurp.v.01",
+            "wolf.v.01",
+            "tuck_in.v.01"
+        ],
+        "fish": [
+            "alewife.n.01",
+            "anchovy.n.01",
+            "eel.n.01",
+            "haddock.n.01",
+            "hake.n.01",
+            "mullet.n.01",
+            "panfish.n.01",
+            "rock_salmon.n.01",
+            "salmon.n.03",
+            "schrod.n.01",
+            "shad.n.01",
+            "smelt.n.01",
+            "trout.n.01",
+            "elver.n.01",
+            "atlantic_salmon.n.01",
+            "chinook_salmon.n.01",
+            "kippered_salmon.n.01",
+            "red_salmon.n.01",
+            "silver_salmon.n.01",
+            "american_smelt.n.01",
+            "european_smelt.n.01",
+            "rainbow_trout.n.01",
+            "sea_trout.n.01"
+        ],
+        "give": [
+            "accord.v.02",
+            "bestow.v.02",
+            "offer.v.02",
+            "provide.v.02",
+            "supply.v.01",
+            "feed.v.02",
+            "serve.v.05",
+            "serve.v.06",
+            "feed.v.03",
+            "offer.v.01"
+        ],
+        "go": [
+            "advance.v.01",
+            "ascend.v.01",
+            "cruise.v.02",
+            "forge.v.05",
+            "pace.v.02",
+            "precede.v.04",
+            "proceed.v.02",
+            "travel.v.04",
+            "walk.v.01",
+            "forge.v.04",
+            "walk.v.08",
+            "lead.v.04",
+            "head.v.01",
+            "step.v.07"
+        ],
+        "lamp": [
+            "candle.n.01",
+            "lantern.n.01",
+            "limelight.n.02",
+            "spirit_lamp.n.01",
+            "dip.n.07",
+            "chinese_lantern.n.01",
+            "dark_lantern.n.01",
+            "jack-o'-lantern.n.02"
+        ],
+        "light": [],
+        "north": [],
+        "princess": [
+            "crown_princess.n.02",
+            "maharani.n.01",
+            "princess_royal.n.01"
+        ],
+        "propose": [],
+        "rose": [
+            "banksia_rose.n.01",
+            "cherokee_rose.n.01",
+            "china_rose.n.01",
+            "damask_rose.n.01",
+            "dog_rose.n.01",
+            "ground_rose.n.01",
+            "mountain_rose.n.01",
+            "multiflora.n.01",
+            "musk_rose.n.01",
+            "sweetbrier.n.01",
+            "tea_rose.n.01"
+        ],
+        "smell": [
+            "get_a_noseful.v.01",
+            "scent.v.02",
+            "sniff.v.01",
+            "snuff.v.01"
+        ],
+        "troll": [],
+        "wear": []
+    },
+    "senses": {
+        "crown": "crown.n.01",
+        "eat": "eat.v.01",
+        "fish": "fish.n.02",
+        "give": "give.v.03",
+        "go": "travel.v.01",
+        "lamp": "lamp.n.01",
+        "light": "light.v.01",
+        "north": "north.n.06",
+        "princess": "princess.n.01",
+        "propose": "propose.v.05",
+        "rose": "rose.n.01",
+        "smell": "smell.v.01",
+        "troll": "troll.n.01",
+        "wear": "wear.v.01"
+    }
+}
