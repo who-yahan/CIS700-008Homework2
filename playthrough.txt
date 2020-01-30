@@ -1,0 +1,8 @@
+go west
+open the closets
+cook the noodles
+eat the noodles 
+go east
+go north
+open the diary
+find her favorite book
